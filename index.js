@@ -30,3 +30,9 @@ class Test {
 		return 1234567;
 	}
 }
+
+class Test2 {
+	testMethod() {
+		return 123;
+	}
+}
