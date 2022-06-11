@@ -13,4 +13,8 @@ class Test {
 	testMethod() {
 		return 123;
 	}
+
+	testMethod2() {
+		return 12345;
+	}
 }
