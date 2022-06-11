@@ -7,4 +7,8 @@ class Person {
 	getName() {
 		return this.name;
 	}
+
+	getAge() {
+		return this.age;
+	}
 }
