@@ -33,6 +33,6 @@ class Test {
 
 class Test2 {
 	testMethod() {
-		return 123;
+		return 12345;
 	}
 }
