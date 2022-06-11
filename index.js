@@ -29,4 +29,8 @@ class Test {
 	testMethod4() {
 		return 1234567;
 	}
+
+	testMethod5() {
+		return 123456789;
+	}
 }
