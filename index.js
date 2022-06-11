@@ -8,3 +8,9 @@ class Person {
 		return this.name;
 	}
 }
+
+class Test {
+	testMethod() {
+		return 123;
+	}
+}
