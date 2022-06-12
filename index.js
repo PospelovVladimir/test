@@ -43,6 +43,7 @@ class Test {
 	}
 
 	testMethod8() {
+		let a = 12345;
 		return true;
 	}
 }
