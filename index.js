@@ -9,7 +9,7 @@ class Person {
 	}
 	
 	getModeName() {
-		return this.name + '!';
+		return this.name + '! ^)';
 	}
 
 	getAge() {
