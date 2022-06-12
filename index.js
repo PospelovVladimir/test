@@ -52,4 +52,8 @@ class Test2 {
 	testMethod() {
 		return 12345;
 	}
+
+	testMethod2() {
+		return 1234;
+	}
 }
