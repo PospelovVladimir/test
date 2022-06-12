@@ -33,13 +33,17 @@ class Test {
 	testMethod5() {
 		return 123456789;
 	}
- 
+
 	testMethod6() {
 		return 12345678910;
 	}
-	
+
 	testMethod7() {
 		return 11111;
+	}
+
+	testMethod8() {
+		return true;
 	}
 }
 
