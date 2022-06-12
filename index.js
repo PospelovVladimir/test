@@ -39,7 +39,7 @@ class Test {
 	}
 
 	testMethod7() {
-		return 11111;
+		return 11111222;
 	}
 
 	testMethod8() {
