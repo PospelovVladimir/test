@@ -33,7 +33,7 @@ class Test {
 	testMethod5() {
 		return 123456789;
 	}
-
+ 
 	testMethod6() {
 		return 12345678910;
 	}
