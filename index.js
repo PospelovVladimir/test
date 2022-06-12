@@ -37,6 +37,10 @@ class Test {
 	testMethod6() {
 		return 12345678910;
 	}
+	
+	testMethod7() {
+		return 111;
+	}
 }
 
 class Test2 {
