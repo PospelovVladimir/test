@@ -60,4 +60,8 @@ class Test2 {
 	testMethod2() {
 		return 1234;
 	}
+
+	testMethod3() {
+		return 12343;
+	}
 }
